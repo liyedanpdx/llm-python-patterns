@@ -19,7 +19,7 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 | | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | - | Model selection, prompt strategies |
 | | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | AI workflow templates |
 | | Visitor | - | - | - |
-| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | - | Multi-provider AI clients, agent creation |
+| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI clients, agent creation |
 | | Builder | [builder.md](./index/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
 | | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Model instantiation, tool creation |
 | | Prototype | - | - | - |
