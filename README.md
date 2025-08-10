@@ -41,7 +41,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 ### 1. AI Agent Chain: Chain of Responsibility Pattern in Action - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
    
-    Notebook demonstrating how to build intelligent AI agent workflows using classic design patterns, similar to LangChain and LangGraph architectures.
+   Notebook demonstrating how to build intelligent AI agent workflows using classic design patterns, similar to LangChain and LangGraph architectures.
    
    **Implemented Patterns:**
    - **Behavioral**: Chain of Responsibility, Strategy, Template Method
