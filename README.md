@@ -5,7 +5,6 @@ However, Python has become a powerful partner for LLM development, helping to bu
 
 Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we aim to implement some fun application achievements using classic design patterns to demonstrate how Python patterns can be applied in LLM projects with simple steps, thereby enhancing the robustness of project building and the clarity of summaries.
 
-
 ## Design Patterns Overview
 
 | Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
@@ -36,8 +35,6 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 | | Graph Search | - | - | AI pathfinding, decision trees, state space exploration |
 | | Hierarchical State Machine (HSM) | - | - | Complex AI behavior modeling, state transitions |
 
-
-
 ## Workshop Projects
 
 ### 1. AI Agent Chain: Chain of Responsibility Pattern in Action - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
@@ -60,8 +57,6 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 | AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb) |
 | *Future Project* | - | - | - | - |
 | *Future Project* | - | - | - | - |
-
-
 
 ## Getting Started with Real LLM Testing
 
