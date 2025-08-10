@@ -40,7 +40,7 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 
 ## Workshop Projects
 
-1. **AI Agent Chain: Chain of Responsibility Pattern in Action** - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
+### 1. AI Agent Chain: Chain of Responsibility Pattern in Action - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
    
     Notebook demonstrating how to build intelligent AI agent workflows using classic design patterns, similar to LangChain and LangGraph architectures.
    
