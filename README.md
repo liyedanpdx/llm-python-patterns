@@ -66,6 +66,16 @@ Real-world production AI systems from leading companies, analyzing design patter
 | ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) |
 | *Future Analysis* | - | - | - | - |
 
+## Claude Code Templates
+
+Ready-to-use project templates for building AI applications with design patterns. Perfect for quickly starting new projects with proven architectural foundations.
+
+| Template Name | Design Patterns Used | Use Case | Template Link |
+|---------------|---------------------|----------|---------------|
+| AI Agent System | Template Method, Factory, Chain of Responsibility, Strategy, Command | Multi-agent workflows, intelligent task routing, LangChain-style systems | [ai_agent_system_template.md](./claudecode_templates/ai_agent_system_template.md) |
+| Multi-LLM Provider | Abstract Factory, Strategy, Facade, Observer, Command | Cost-optimized LLM integration, provider failover, vendor independence | [multi_llm_provider_template.md](./claudecode_templates/multi_llm_provider_template.md) |
+| *Future Template* | - | - | - |
+
 ## Getting Started with Real LLM Testing
 
 To test LLM in this project, you can  set up free API access:
