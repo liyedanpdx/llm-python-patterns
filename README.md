@@ -12,24 +12,24 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
 |------------------|--------------|---------------|--------------|----------------------|
 | **Behavioral** | Chain of Responsibility | [chain_of_responsibility_cases.md](./index/behavioral/chain_of_responsibility_cases.md) | - | Agent routing, request processing pipelines |
-| | Command | - | - | - |
+| | Command | - | - | Tool execution, operation history, undo/redo functionality |
 | | Iterator | - | - | - |
 | | Mediator | - | - | - |
 | | Memento | - | - | - |
-| | Observer | - | - | Event-driven AI systems, model monitoring |
-| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | - | Model selection, prompt strategies |
-| | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | AI workflow templates |
+| | Observer | - | - | Real-time progress tracking, performance monitoring, system transparency |
+| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | - | Multi-provider selection, analysis algorithms, AI model routing |
+| | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates |
 | | Visitor | - | - | - |
-| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI clients, agent creation |
-| | Builder | [builder.md](./index/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
-| | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Model instantiation, tool creation |
+| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI families, agent ecosystems, tool families |
+| | Builder | [builder.md](./index/creational/builder.md) | - | Flexible recommendation systems, complex prompt construction, configurable pipelines |
+| | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Document parsers, AI provider selection, agent creation, tool instantiation |
 | | Prototype | - | - | - |
 | | Singleton | - | - | - |
-| **Structural** | Adapter | - | - | API abstraction, model interface unification |
+| **Structural** | Adapter | - | - | AI provider integration, document format handling, legacy system integration |
 | | Bridge | - | - | - |
 | | Composite | - | - | Hierarchical agent systems |
 | | Decorator | - | - | LLM enhancement layers, middleware |
-| | Facade | - | - | Simplified AI interfaces |
+| | Facade | - | - | Unified API interfaces, CLI simplification, complex system abstraction |
 | | Flyweight | - | - | - |
 | | Proxy | - | - | Rate limiting, caching, security |
 | **Fundamental** | Delegation | - | - | Responsibility delegation, task forwarding |
@@ -39,7 +39,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 ## Workshop Projects
 
-### 1. AI Agent Chain: Chain of Responsibility Pattern in Action - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
+### 1. AI Agent Chain: Chain of Responsibility Pattern in Action - [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb)
    
    Notebook demonstrating how to build intelligent AI agent workflows using classic design patterns, similar to LangChain and LangGraph architectures.
    
@@ -63,10 +63,11 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 Real-world production AI systems from leading companies, analyzing design patterns at enterprise scale.
 
-| Company Project | Primary Patterns | Supporting Patterns | Architecture Focus | Analysis Link |
-|-----------------|------------------|--------------------|--------------------|---------------|
-| ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) |
-| *Future Analysis* | - | - | - | - |
+| Company Project | Primary Patterns | Supporting Patterns | Architecture Focus | Analysis Link | Structure Link |
+|-----------------|------------------|--------------------|--------------------|---------------|----------------|
+| ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/bytedance_trae_agent_structure.md) |
+| Resume-Matcher | Strategy, Template Method, Factory, Observer | Command, Facade, Builder, Adapter | AI-powered document analysis, privacy-first local processing | [resume_matcher_analysis.md](./cases_analysis/resume_matcher_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/resume_matcher_structure.md) |
+| *Future Analysis* | - | - | - | - | - |
 
 ## Claude Code Templates
 
