@@ -6,7 +6,7 @@ However, Python has become a powerful partner for LLM development, helping to bu
 Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we aim to implement some fun application achievements using classic design patterns to demonstrate how Python patterns can be applied in LLM projects with simple steps, thereby enhancing the robustness of project building and the clarity of summaries.
 
 
-## Update Index
+## Index
 
 1. **AI Agent Chain: Chain of Responsibility Pattern in Action** - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
    
