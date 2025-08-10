@@ -55,8 +55,16 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 | Workshop Project | Primary Patterns | Secondary Patterns | Focus Area | Link |
 |------------------|------------------|-------------------|------------|------|
 | AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb) |
-| ByteDance Trae-Agent Analysis | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Enterprise AI agent architecture, production patterns | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) |
 | *Future Project* | - | - | - | - |
+
+## Enterprise Cases Analysis
+
+Real-world production AI systems from leading companies, analyzing design patterns at enterprise scale.
+
+| Company Project | Primary Patterns | Supporting Patterns | Architecture Focus | Analysis Link |
+|-----------------|------------------|--------------------|--------------------|---------------|
+| ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) |
+| *Future Analysis* | - | - | - | - |
 
 ## Getting Started with Real LLM Testing
 
