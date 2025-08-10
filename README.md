@@ -1,4 +1,4 @@
-# Python Design Patterns for LLM
+# LLM Python Patterns
 Python is an easy-to-use language for hands-on development but may not be as strictly structured as Java or C++ in enforcing coding rules and design patterns.
 
 However, Python has become a powerful partner for LLM development, helping to build modern applications through frameworks such as LangChain, LangGraph, and LangExtract, and playing a significant role in modern application development.
