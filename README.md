@@ -7,7 +7,7 @@ Furthermore, Python is still a very strong language to cooperate with AI/LLM to 
 
 1. **AI Agent Chain: Chain of Responsibility Pattern in Action** - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
    
-   Interactive notebook demonstrating how to build intelligent AI agent workflows using classic design patterns, similar to LangChain and LangGraph architectures.
+    Notebook demonstrating how to build intelligent AI agent workflows using classic design patterns, similar to LangChain and LangGraph architectures.
    
    **Implemented Patterns:**
    - **Behavioral**: Chain of Responsibility, Strategy, Template Method
