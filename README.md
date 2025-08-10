@@ -3,7 +3,7 @@ Python is an easy-to-use language for hands-on development but may not be as str
 
 However, Python has become a powerful partner for LLM development, helping to build modern applications through frameworks such as LangChain, LangGraph, and LangExtract, and playing a significant role in modern application development.
 
-Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we aim to implement some fun application achievements using classic design patterns to demonstrate how Python patterns can be applied in LLM projects with simple steps, thereby enhancing the robustness of project building and the clarity of summaries.
+Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, this project demonstrates how classic design patterns solve real-world challenges in LLM applications. Through hands-on examples and enterprise case studies, we explore practical implementations that enhance system robustness and maintainability.
 
 ## Design Patterns Overview
 
