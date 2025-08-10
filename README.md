@@ -10,18 +10,18 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 
 | Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
 |------------------|--------------|---------------|--------------|----------------------|
-| **Behavioral** | Chain of Responsibility | - | - | Agent routing, request processing pipelines |
+| **Behavioral** | Chain of Responsibility | [chain_of_responsibility_cases.md](./index/behavioral/chain_of_responsibility_cases.md) | - | Agent routing, request processing pipelines |
 | | Command | - | - | - |
 | | Iterator | - | - | - |
 | | Mediator | - | - | - |
 | | Memento | - | - | - |
 | | Observer | - | - | Event-driven AI systems, model monitoring |
-| | Strategy | - | - | Model selection, prompt strategies |
-| | Template Method | - | - | AI workflow templates |
+| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | - | Model selection, prompt strategies |
+| | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | AI workflow templates |
 | | Visitor | - | - | - |
-| **Creational** | Abstract Factory | - | - | Multi-provider AI clients, agent creation |
-| | Builder | [patterns/creational/builder.md](./index/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
-| | Factory | - | - | Model instantiation, tool creation |
+| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | - | Multi-provider AI clients, agent creation |
+| | Builder | [builder.md](./index/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
+| | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Model instantiation, tool creation |
 | | Prototype | - | - | - |
 | | Singleton | - | - | - |
 | **Structural** | Adapter | - | - | API abstraction, model interface unification |
