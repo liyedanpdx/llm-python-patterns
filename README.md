@@ -20,7 +20,7 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 | | Template Method | - | - | AI workflow templates |
 | | Visitor | - | - | - |
 | **Creational** | Abstract Factory | - | - | Multi-provider AI clients, agent creation |
-| | Builder | [patterns/creational/builder.md](./patterns/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
+| | Builder | [patterns/creational/builder.md](./index/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
 | | Factory | - | - | Model instantiation, tool creation |
 | | Prototype | - | - | - |
 | | Singleton | - | - | - |
@@ -31,6 +31,10 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 | | Facade | - | - | Simplified AI interfaces |
 | | Flyweight | - | - | - |
 | | Proxy | - | - | Rate limiting, caching, security |
+| **Fundamental** | Delegation | - | - | Responsibility delegation, task forwarding |
+| **Other** | Blackboard | - | - | Multi-agent knowledge sharing, collaborative reasoning |
+| | Graph Search | - | - | AI pathfinding, decision trees, state space exploration |
+| | Hierarchical State Machine (HSM) | - | - | Complex AI behavior modeling, state transitions |
 
 
 
@@ -53,7 +57,7 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 
 | Workshop Project | Primary Patterns | Secondary Patterns | Focus Area | Link |
 |------------------|------------------|-------------------|------------|------|
-| AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) |
+| AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb) |
 | *Future Project* | - | - | - | - |
 | *Future Project* | - | - | - | - |
 
