@@ -6,6 +6,34 @@ However, Python has become a powerful partner for LLM development, helping to bu
 Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we aim to implement some fun application achievements using classic design patterns to demonstrate how Python patterns can be applied in LLM projects with simple steps, thereby enhancing the robustness of project building and the clarity of summaries.
 
 
+## Design Patterns Overview
+
+| Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
+|------------------|--------------|---------------|--------------|----------------------|
+| **Behavioral** | Chain of Responsibility | - | - | Agent routing, request processing pipelines |
+| | Command | - | - | - |
+| | Iterator | - | - | - |
+| | Mediator | - | - | - |
+| | Memento | - | - | - |
+| | Observer | - | - | Event-driven AI systems, model monitoring |
+| | Strategy | - | - | Model selection, prompt strategies |
+| | Template Method | - | - | AI workflow templates |
+| | Visitor | - | - | - |
+| **Creational** | Abstract Factory | - | - | Multi-provider AI clients, agent creation |
+| | Builder | [patterns/creational/builder.md](./patterns/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
+| | Factory | - | - | Model instantiation, tool creation |
+| | Prototype | - | - | - |
+| | Singleton | - | - | - |
+| **Structural** | Adapter | - | - | API abstraction, model interface unification |
+| | Bridge | - | - | - |
+| | Composite | - | - | Hierarchical agent systems |
+| | Decorator | - | - | LLM enhancement layers, middleware |
+| | Facade | - | - | Simplified AI interfaces |
+| | Flyweight | - | - | - |
+| | Proxy | - | - | Rate limiting, caching, security |
+
+
+
 ## Workshop Projects
 
 1. **AI Agent Chain: Chain of Responsibility Pattern in Action** - [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb)
@@ -21,39 +49,13 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
    
    **Similar Product Mindset**: LangChain agent workflows, LangGraph state machines, OpenAI Assistant API
 
-## Design Patterns Overview
-
-| Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
-|------------------|--------------|---------------|--------------|----------------------|
-| **Behavioral** | Chain of Responsibility | - | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) | Agent routing, request processing pipelines |
-| | Command | - | - | - |
-| | Iterator | - | - | - |
-| | Mediator | - | - | - |
-| | Memento | - | - | - |
-| | Observer | - | - | Event-driven AI systems, model monitoring |
-| | Strategy | - | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) | Model selection, prompt strategies |
-| | Template Method | - | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) | AI workflow templates |
-| | Visitor | - | - | - |
-| **Creational** | Abstract Factory | - | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) | Multi-provider AI clients, agent creation |
-| | Builder | [patterns/creational/builder.md](./patterns/creational/builder.md) | - | Prompt building, RAG pipelines, agent construction |
-| | Factory | - | - | Model instantiation, tool creation |
-| | Prototype | - | - | - |
-| | Singleton | - | - | - |
-| **Structural** | Adapter | - | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) | API abstraction, model interface unification |
-| | Bridge | - | - | - |
-| | Composite | - | - | Hierarchical agent systems |
-| | Decorator | - | - | LLM enhancement layers, middleware |
-| | Facade | - | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) | Simplified AI interfaces |
-| | Flyweight | - | - | - |
-| | Proxy | - | - | Rate limiting, caching, security |
-
 ## Workshop Project Pattern Mapping
 
-| Workshop Project | Primary Patterns | Secondary Patterns | Focus Area |
-|------------------|------------------|-------------------|------------|
-| AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing |
-| *Future Project* | - | - | - |
-| *Future Project* | - | - | - |
+| Workshop Project | Primary Patterns | Secondary Patterns | Focus Area | Link |
+|------------------|------------------|-------------------|------------|------|
+| AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./ai_agent_chain_example.ipynb) |
+| *Future Project* | - | - | - | - |
+| *Future Project* | - | - | - | - |
 
 
 
