@@ -1,0 +1,3 @@
+/patterns
+.env
+*/__pycache__
