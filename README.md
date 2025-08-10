@@ -1,7 +1,7 @@
-# AI Pattern Playbook
+# Python Design Patterns For LLM
 Python is an easy-to-use language for hands-on development but may not be as strictly structured as Java or C++ in enforcing coding rules and design patterns.
 
-However, Python has become a powerful partner for AI/LLM development, helping to build modern applications through frameworks such as LangChain, LangGraph, and LangExtract, and playing a significant role in modern application development.
+However, Python has become a powerful partner for LLM development, helping to build modern applications through frameworks such as LangChain, LangGraph, and LangExtract, and playing a significant role in modern application development.
 
 Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we aim to implement some fun application achievements using classic design patterns to demonstrate how Python patterns can be applied in AI projects with simple steps, thereby enhancing the robustness of project building and the clarity of summaries.
 
