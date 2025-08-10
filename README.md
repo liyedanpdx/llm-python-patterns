@@ -3,4 +3,4 @@ Python is a language very easy for hands-on but may not be structured like Java 
 
 Furthermore, Python is still a very strong language to cooperate with AI/LLM to help build modern applications by using frameworks like Langchain, Langgraph, Langextract, etc. So, how could we combine them together to give us a showcase of how a modern Python-based AI system should look like? It's also the direction we would like to approach. 
 
-**Update Index
+**Update Index**
