@@ -17,7 +17,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Mediator | - | - | - |
 | | Memento | - | - | - |
 | | Observer | - | - | Real-time progress tracking, performance monitoring, system transparency |
-| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | - | Multi-provider selection, analysis algorithms, AI model routing |
+| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Emotion-aware chatbot responses, multi-provider selection, analysis algorithms |
 | | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates |
 | | Visitor | - | - | - |
 | **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI families, agent ecosystems, tool families |
