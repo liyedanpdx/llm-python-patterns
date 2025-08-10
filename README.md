@@ -1,7 +1,10 @@
-# python-pattern-playbook
-Python is a language very easy for hands-on but may not be structured like Java or C++ to give us strict rules for coding and design patterns. Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we would like to implement some fun application achievements using design patterns directly in real-life projects to show their value in practical small projects.
+# AI Pattern Playbook
+Python is an easy-to-use language for hands-on development but may not be as strictly structured as Java or C++ in enforcing coding rules and design patterns.
 
-Furthermore, Python is still a very strong language to cooperate with AI/LLM to help build modern applications by using frameworks like Langchain, Langgraph, Langextract, etc. So, how could we combine them together to give us a showcase of how a modern Python-based AI system should look like? I would also like to update once I meet in development.
+However, Python has become a powerful partner for AI/LLM development, helping to build modern applications through frameworks such as LangChain, LangGraph, and LangExtract, and playing a significant role in modern application development.
+
+Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo, we aim to implement some fun application achievements using classic design patterns to demonstrate how Python patterns can be applied in AI projects with simple steps, thereby enhancing the robustness of project building and the clarity of summaries.
+
 
 ## Update Index
 
