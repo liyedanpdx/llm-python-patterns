@@ -28,7 +28,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | **Structural** | Adapter | - | - | API format standardization, AI provider integration, document format handling, legacy system integration |
 | | Bridge | - | - | - |
 | | Composite | - | - | Hierarchical agent systems |
-| | Decorator | - | - | Response caching, LLM enhancement layers, middleware |
+| | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware |
 | | Facade | - | - | Unified API interfaces, CLI simplification, complex system abstraction |
 | | Flyweight | - | - | - |
 | | Proxy | - | - | Access control, rate limiting, caching, security |

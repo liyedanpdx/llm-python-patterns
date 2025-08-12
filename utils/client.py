@@ -106,6 +106,11 @@ class AIClient:
             
             result = response.choices[0].message.content
             
+            # Handle None content from API (common with content filtering)
+            if result is None:
+                logger.warning(f"⚠️ API returned None content, using fallback")
+                result = f"[API response filtered or empty for: {prompt[:50]}...]"
+            
             # Add response to history
             self.add_message("assistant", result)
             
@@ -138,6 +143,11 @@ class AIClient:
             )
             
             result = response.choices[0].message.content
+            
+            # Handle None content from API (common with content filtering)
+            if result is None:
+                logger.warning(f"⚠️ API returned None content, using fallback")
+                result = f"[API response filtered or empty for: {user_message[:50]}...]"
             
             # Add response to history
             self.add_message("assistant", result)
