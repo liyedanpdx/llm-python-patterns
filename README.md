@@ -54,21 +54,17 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 ### 2. JSON Schema Factory + Pydantic Validation: Structured LLM Output Control - [json_schema_factory_pydantic.ipynb](./workshops/json_schema_factory_pydantic.ipynb)
    
-   Comprehensive workshop showing how to tame unpredictable LLM outputs using Factory Pattern + JSON Schema + Pydantic validation for provider-independent structured data generation.
+   Workshop showing how to get structured JSON from LLMs using Factory Pattern and Pydantic validation.
    
-   **Implemented Patterns:**
-   - **Creational**: Factory Pattern (schema selection and validation routing)
-   - **Behavioral**: Template Method (standardized prompt generation pipeline)
+   **Patterns Used:**
+   - Factory Pattern - Choose correct schema based on data type
+   - Template Method - Standard prompt generation process
    
-   **Key Features:**
-   - Provider independence (works with any LLM: OpenAI, Gemini, Anthropic, local models)
-   - Local validation with custom business rules beyond basic JSON schema
-   - Cost control through local processing vs API-based function calls
-   - Production-ready error handling and data quality control
-   
-   **Goal**: Build reliable, structured AI systems with predictable outputs and robust validation
-   
-   **Similar Product Mindset**: Alternative to OpenAI Function Calling with deeper control and vendor independence
+   **What it does:**
+   - Takes any LLM output and validates it into clean JSON
+   - Works with OpenAI, Gemini, Anthropic, or any LLM provider
+   - Catches data errors before they enter your application
+   - Alternative to OpenAI Function Calling with more control
 
 ## Workshop Project Pattern Mapping
 
