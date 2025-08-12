@@ -21,3 +21,4 @@ wheels/
 .installed.cfg
 *.egg
 CLAUDE.md
+schemas/

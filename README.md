@@ -52,11 +52,31 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
    
    **Similar Product Mindset**: LangChain agent workflows, LangGraph state machines, OpenAI Assistant API
 
+### 2. JSON Schema Factory + Pydantic Validation: Structured LLM Output Control - [json_schema_factory_pydantic.ipynb](./workshops/json_schema_factory_pydantic.ipynb)
+   
+   Comprehensive workshop showing how to tame unpredictable LLM outputs using Factory Pattern + JSON Schema + Pydantic validation for provider-independent structured data generation.
+   
+   **Implemented Patterns:**
+   - **Creational**: Factory Pattern (schema selection and prompt generation)
+   - **Structural**: Template Method (validation pipeline), Adapter (multi-provider integration)
+   - **Behavioral**: Strategy (validation routing)
+   
+   **Key Features:**
+   - Provider independence (works with any LLM: OpenAI, Gemini, Anthropic, local models)
+   - Local validation with custom business rules beyond basic JSON schema
+   - Cost control through local processing vs API-based function calls
+   - Production-ready error handling and data quality control
+   
+   **Goal**: Build reliable, structured AI systems with predictable outputs and robust validation
+   
+   **Similar Product Mindset**: Alternative to OpenAI Function Calling with deeper control and vendor independence
+
 ## Workshop Project Pattern Mapping
 
 | Workshop Project | Primary Patterns | Secondary Patterns | Focus Area | Link |
 |------------------|------------------|-------------------|------------|------|
 | AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb) |
+| JSON Schema Factory + Pydantic | Factory, Template Method, Strategy | Adapter, Builder | Structured LLM output control, provider-independent validation | [json_schema_factory_pydantic.ipynb](./workshops/json_schema_factory_pydantic.ipynb) |
 | *Future Project* | - | - | - | - |
 
 ## Enterprise Cases Analysis
