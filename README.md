@@ -86,6 +86,7 @@ Real-world production AI systems from leading companies, analyzing design patter
 |-----------------|------------------|--------------------|--------------------|---------------|----------------|
 | ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/bytedance_trae_agent_structure.md) |
 | Resume-Matcher | Strategy, Template Method, Factory, Observer | Command, Facade, Builder, Adapter | AI-powered document analysis, privacy-first local processing | [resume_matcher_analysis.md](./cases_analysis/resume_matcher_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/resume_matcher_structure.md) |
+| BerriAI LiteLLM | Adapter, Strategy, Factory, Proxy | Observer, Template Method, Decorator, Command | Enterprise LLM proxy, multi-provider abstraction, cost optimization | [litellm_analysis.md](./cases_analysis/litellm_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/litellm_structure.md) |
 | *Future Analysis* | - | - | - | - | - |
 
 ## Claude Code Templates
