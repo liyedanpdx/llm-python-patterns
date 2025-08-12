@@ -16,8 +16,8 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Iterator | - | - | - |
 | | Mediator | - | - | - |
 | | Memento | - | - | - |
-| | Observer | - | - | Real-time progress tracking, performance monitoring, system transparency |
-| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Emotion-aware chatbot responses, multi-provider selection, analysis algorithms |
+| | Observer | - | - | Real-time progress tracking, performance monitoring, cost tracking, system transparency |
+| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Multi-provider selection, cost optimization, routing algorithms, analysis algorithms |
 | | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates |
 | | Visitor | - | - | - |
 | **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI families, agent ecosystems, tool families |
@@ -25,13 +25,13 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Document parsers, AI provider selection, agent creation, tool instantiation |
 | | Prototype | - | - | - |
 | | Singleton | - | - | - |
-| **Structural** | Adapter | - | - | AI provider integration, document format handling, legacy system integration |
+| **Structural** | Adapter | - | - | API format standardization, AI provider integration, document format handling, legacy system integration |
 | | Bridge | - | - | - |
 | | Composite | - | - | Hierarchical agent systems |
-| | Decorator | - | - | LLM enhancement layers, middleware |
+| | Decorator | - | - | Response caching, LLM enhancement layers, middleware |
 | | Facade | - | - | Unified API interfaces, CLI simplification, complex system abstraction |
 | | Flyweight | - | - | - |
-| | Proxy | - | - | Rate limiting, caching, security |
+| | Proxy | - | - | Access control, rate limiting, caching, security |
 | **Fundamental** | Delegation | - | - | Responsibility delegation, task forwarding |
 | **Other** | Blackboard | - | - | Multi-agent knowledge sharing, collaborative reasoning |
 | | Graph Search | - | - | AI pathfinding, decision trees, state space exploration |
