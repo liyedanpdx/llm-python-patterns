@@ -57,9 +57,8 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
    Comprehensive workshop showing how to tame unpredictable LLM outputs using Factory Pattern + JSON Schema + Pydantic validation for provider-independent structured data generation.
    
    **Implemented Patterns:**
-   - **Creational**: Factory Pattern (schema selection and prompt generation)
-   - **Structural**: Template Method (validation pipeline), Adapter (multi-provider integration)
-   - **Behavioral**: Strategy (validation routing)
+   - **Creational**: Factory Pattern (schema selection and validation routing)
+   - **Behavioral**: Template Method (standardized prompt generation pipeline)
    
    **Key Features:**
    - Provider independence (works with any LLM: OpenAI, Gemini, Anthropic, local models)
@@ -76,7 +75,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | Workshop Project | Primary Patterns | Secondary Patterns | Focus Area | Link |
 |------------------|------------------|-------------------|------------|------|
 | AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb) |
-| JSON Schema Factory + Pydantic | Factory, Template Method, Strategy | Adapter, Builder | Structured LLM output control, provider-independent validation | [json_schema_factory_pydantic.ipynb](./workshops/json_schema_factory_pydantic.ipynb) |
+| JSON Schema Factory + Pydantic | Factory, Template Method | - | Structured LLM output control, provider-independent validation | [json_schema_factory_pydantic.ipynb](./workshops/json_schema_factory_pydantic.ipynb) |
 | *Future Project* | - | - | - | - |
 
 ## Enterprise Cases Analysis
