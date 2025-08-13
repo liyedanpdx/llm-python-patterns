@@ -23,4 +23,5 @@
     * [Builder Pattern in LLM Applications](index/creational/builder.md)
     * [Factory Pattern in LLM Applications](index/creational/factory_cases.md)
   * [structural](index/structural/README.md)
+    * [Adapter Pattern in LLM Applications](index/structural/adapter_cases.md)
     * [Decorator Pattern in LLM Applications](index/structural/decorator_cases.md)
