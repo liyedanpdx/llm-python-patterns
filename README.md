@@ -16,7 +16,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Iterator | - | - | - |
 | | Mediator | - | - | - |
 | | Memento | - | - | - |
-| | Observer | - | - | Real-time progress tracking, performance monitoring, cost tracking, system transparency |
+| | Observer | [observer_cases.md](./index/behavioral/observer_cases.md) | [observer_pattern.ipynb](./index/behavioral/observer_pattern.ipynb) | Real-time progress tracking, performance monitoring, cost tracking, system transparency |
 | | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Multi-provider selection, cost optimization, routing algorithms, analysis algorithms |
 | | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates |
 | | Visitor | - | - | - |
