@@ -20,7 +20,7 @@
     * [Template Method Pattern in LLM Applications](index/behavioral/template_method_cases.md)
   * [creational](index/creational/README.md)
     * [Abstract Factory Pattern in LLM Applications](index/creational/abstract_factory_cases.md)
-    * [Builder Pattern in LLM Applications2](index/creational/builder.md)
+    * [Builder Pattern in LLM Applications](index/creational/builder.md)
     * [Factory Pattern in LLM Applications](index/creational/factory_cases.md)
   * [structural](index/structural/README.md)
     * [Decorator Pattern in LLM Applications](index/structural/decorator_cases.md)
