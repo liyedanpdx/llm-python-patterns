@@ -7,6 +7,12 @@ Inspired by the [python-patterns](https://github.com/faif/python-patterns) repo,
 
 We also aspire to enable Claude Code to systematically generate high-quality, pattern-based code by providing comprehensive templates and examples that can be intelligently combined for optimal AI system architecture.
 
+## 📚 Documentation
+
+[![Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-blue?style=for-the-badge)](https://paradx.gitbook.io/paradx-docs/)
+
+> **📘 Complete Documentation Available**: Visit documentation [GitBook documentation](https://paradx.gitbook.io/paradx-docs/) for comprehensive guides, tutorials, and detailed explanations of all design patterns and implementations.
+
 ## Design Patterns Overview
 
 | Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
