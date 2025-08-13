@@ -1,6 +1,6 @@
 # ByteDance Trae-Agent: Design Patterns Analysis
 
-## Project Overview2
+## Project Overview
 
 **Trae-Agent** is ByteDance's open-source, LLM-based software engineering agent designed to help developers execute complex software tasks through a CLI interface. It represents a production-ready implementation of multiple design patterns working together to create a flexible, modular, and extensible AI agent system.
 
