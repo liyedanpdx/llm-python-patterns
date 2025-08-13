@@ -33,7 +33,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Document parsers, AI provider selection, agent creation, tool instantiation |
 | | Prototype | - | - | - |
 | | Singleton | - | - | - |
-| **Structural** | Adapter | - | - | API format standardization, AI provider integration, document format handling, legacy system integration |
+| **Structural** | Adapter | [adapter_cases.md](./index/structural/adapter_cases.md) | - | API format standardization, AI provider integration, document format handling, legacy system integration |
 | | Bridge | - | - | - |
 | | Composite | - | - | Hierarchical agent systems |
 | | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware |
