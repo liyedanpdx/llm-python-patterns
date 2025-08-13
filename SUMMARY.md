@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LLM Python Patterns](README.md)
+* [LLM Python Patterns2](README.md)
 * [cases\_analysis](cases_analysis/README.md)
   * [ByteDance Trae-Agent: Design Patterns Analysis](cases_analysis/bytedance_trae_agent_analysis.md)
   * [LiteLLM Enterprise Architecture Analysis](cases_analysis/litellm_analysis.md)
