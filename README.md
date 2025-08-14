@@ -9,9 +9,9 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 ## 📚 Documentation
 
-[![Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-blue?style=for-the-badge)](https://paradx.gitbook.io/paradx-docs/)
+[![Documentation](https://img.shields.io/badge/📖_Documentation-GitBook-blue?style=for-the-badge)](https://paradx.gitbook.io/llm-python-patterns/)
 
-> **📘 Complete Documentation Available**: Visit documentation [GitBook documentation](https://paradx.gitbook.io/paradx-docs/) for comprehensive guides, tutorials, and detailed explanations of all design patterns and implementations.
+> **📘 Complete Documentation Available**: Visit documentation [GitBook documentation](https://paradx.gitbook.io/llm-python-patterns/) for comprehensive guides, tutorials, and detailed explanations of all design patterns and implementations.
 
 ![alt text](./assets/images/document_update.png)
 
