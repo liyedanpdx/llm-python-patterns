@@ -661,4 +661,10 @@ The Factory pattern in LLM applications provides:
 - **Development Efficiency**: Reduced boilerplate code and simplified object management
 - **Quality Assurance**: Consistent object creation patterns and validation
 
+---
+
+## 🔗 Interactive Implementation
+
+**[📓 Factory Pattern Notebook](./factory_cases.ipynb)** - Multi-provider AI client system with intelligent selection, failover, and cost optimization.
+
 This pattern is fundamental for production LLM systems where you need to create different types of objects dynamically based on user requirements, system conditions, or configuration settings while maintaining clean, maintainable code.

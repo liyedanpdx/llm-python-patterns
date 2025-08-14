@@ -387,4 +387,10 @@ The Decorator pattern in LLM applications provides:
 - **Performance**: Cached responses serve in milliseconds vs seconds
 - **Observability**: Complete visibility into LLM usage patterns and costs
 
+---
+
+## 🔗 Interactive Implementation
+
+**[📓 Decorator Pattern Notebook](./decorator_pattern.ipynb)** - LLM response caching, performance monitoring, and cost tracking with real OpenAI API integration.
+
 This pattern is essential for production LLM systems where reliability, performance, and cost control are critical requirements.

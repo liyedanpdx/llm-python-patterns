@@ -290,4 +290,10 @@ The Strategy pattern in LLM applications provides:
 - **User Experience**: Personalized responses based on user preferences and context
 - **System Reliability**: Fallback strategies and adaptive behavior
 
+---
+
+## 🔗 Interactive Implementation
+
+**[📓 Strategy Pattern Notebook](./strategy_pattern.ipynb)** - Dynamic provider selection, cost optimization, and intelligent routing strategies in action.
+
 This pattern is crucial for production LLM systems where different scenarios require different approaches, and the ability to switch strategies dynamically is essential for optimal performance and user satisfaction.

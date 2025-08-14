@@ -264,4 +264,10 @@ The Observer Pattern is fundamental to building production-ready LLM application
 3. **Scalability**: Handle increasing complexity through loose coupling
 4. **Reliability**: Isolate monitoring from core functionality
 
+---
+
+## 🔗 Interactive Implementation
+
+**[📓 Observer Pattern Notebook](./observer_pattern.ipynb)** - Live implementation with real-time LLM monitoring, cost tracking, and performance analytics.
+
 In LLM applications where costs, performance, and reliability are critical, the Observer Pattern provides the foundation for building observable, maintainable AI systems.
