@@ -34,6 +34,13 @@
 
 ---
 
+## 🛠️ INTERACTIVE WORKSHOPS
+* [**HANDS-ON IMPLEMENTATIONS**](workshops/README.md)
+  * [AI Agent Chain Workshop](workshops/ai_agent_chain_workshop.md)
+  * [JSON Schema Factory Workshop](workshops/json_schema_factory_workshop.md)
+
+---
+
 ## CLAUDE CODE TEMPLATES
 * [**READY-TO-USE TEMPLATES**](claudecode_templates/README.md)
   * [AI Agent System Template](claudecode_templates/ai_agent_system_template.md)
