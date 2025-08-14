@@ -124,3 +124,16 @@ cp example.env .env
 # Edit .env with your API keys
 # The .env file is automatically ignored by git for security
 ```
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+## Contributing
+
+1. Fork the repository
+2. Create feature branch: `git checkout -b feature/name`
+3. Make changes and test
+4. Submit pull request
+
+We welcome pattern implementations, documentation, and enterprise case studies!
