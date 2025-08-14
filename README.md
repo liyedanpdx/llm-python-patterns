@@ -19,31 +19,31 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 | Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
 |------------------|--------------|---------------|--------------|----------------------|
-| **Behavioral** | Chain of Responsibility | [chain_of_responsibility_cases.md](./index/behavioral/chain_of_responsibility_cases.md) | - | Agent routing, request processing pipelines |
-| | Command | - | - | Tool execution, operation history, undo/redo functionality |
-| | Iterator | - | - | - |
-| | Mediator | - | - | - |
-| | Memento | - | - | - |
-| | Observer | [observer_cases.md](./index/behavioral/observer_cases.md) | [observer_pattern.ipynb](./index/behavioral/observer_pattern.ipynb) | Real-time progress tracking, performance monitoring, cost tracking, system transparency |
-| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Multi-provider selection, cost optimization, routing algorithms, analysis algorithms |
-| | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates |
-| | Visitor | - | - | - |
-| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI families, agent ecosystems, tool families |
-| | Builder | [builder.md](./index/creational/builder.md) | - | Flexible recommendation systems, complex prompt construction, configurable pipelines |
-| | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Document parsers, AI provider selection, agent creation, tool instantiation |
-| | Prototype | - | - | - |
-| | Singleton | - | - | - |
-| **Structural** | Adapter | [adapter_cases.md](./index/structural/adapter_cases.md) | - | API format standardization, AI provider integration, document format handling, legacy system integration |
-| | Bridge | - | - | - |
-| | Composite | - | - | Hierarchical agent systems |
-| | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware |
-| | Facade | - | - | Unified API interfaces, CLI simplification, complex system abstraction |
-| | Flyweight | - | - | - |
-| | Proxy | - | - | Access control, rate limiting, caching, security |
-| **Fundamental** | Delegation | - | - | Responsibility delegation, task forwarding |
-| **Other** | Blackboard | - | - | Multi-agent knowledge sharing, collaborative reasoning |
-| | Graph Search | - | - | AI pathfinding, decision trees, state space exploration |
-| | Hierarchical State Machine (HSM) | - | - | Complex AI behavior modeling, state transitions |
+| **Behavioral** | Chain of Responsibility | [chain_of_responsibility_cases.md](./index/behavioral/chain_of_responsibility_cases.md) | - | Agent routing, request processing pipelines, multi-step reasoning workflows |
+| | Command | - | - | Tool execution, operation history, undo/redo functionality, agent task encapsulation |
+| | Iterator | - | - | Data streaming, batch processing, sequential AI model execution |
+| | Mediator | - | - | Multi-agent communication, centralized coordination, system integration |
+| | Memento | - | - | Conversation state management, checkpoint/restore, workflow rollback |
+| | Observer | [observer_cases.md](./index/behavioral/observer_cases.md) | [observer_pattern.ipynb](./index/behavioral/observer_pattern.ipynb) | Real-time monitoring, cost tracking, performance analytics, system transparency, event-driven coordination |
+| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Multi-provider selection, cost optimization, routing algorithms, dynamic model switching, plugin architectures |
+| | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates, consistent AI processing steps |
+| | Visitor | - | - | AST processing, code analysis, hierarchical data traversal |
+| **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI families, agent ecosystems, tool families, environment-specific components |
+| | Builder | [builder.md](./index/creational/builder.md) | - | Complex prompt construction, configurable pipelines, step-by-step AI workflows, flexible system configuration |
+| | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Dynamic provider selection, agent creation, tool instantiation, runtime object creation |
+| | Prototype | - | - | Agent template cloning, configuration duplication, rapid instance creation |
+| | Singleton | - | - | Global configuration management, shared resources, cache coordination |
+| **Structural** | Adapter | [adapter_cases.md](./index/structural/adapter_cases.md) | - | Multi-provider integration, legacy system connectivity, data format standardization, protocol bridging |
+| | Bridge | - | - | Platform abstraction, UI/logic separation, multi-environment deployment |
+| | Composite | - | - | Hierarchical agent systems, nested workflows, tree-structured AI processing |
+| | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware, transparent functionality addition |
+| | Facade | - | - | Unified interfaces, CLI simplification, complex system abstraction, developer-friendly APIs |
+| | Flyweight | - | - | Memory optimization, shared configurations, efficient resource usage |
+| | Proxy | - | - | Access control, rate limiting, caching, security, remote service abstraction |
+| **Fundamental** | Delegation | - | - | Responsibility delegation, task forwarding, capability distribution, modular system design |
+| **Other** | Blackboard | - | - | Multi-agent knowledge sharing, collaborative reasoning, shared problem-solving workspace |
+| | Graph Search | - | - | AI pathfinding, decision trees, state space exploration, workflow optimization |
+| | Hierarchical State Machine (HSM) | - | - | Complex AI behavior modeling, state transitions, conversation flow management, agent lifecycle |
 
 ## Workshop Projects
 
@@ -91,6 +91,7 @@ Real-world production AI systems from leading companies, analyzing design patter
 | ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/bytedance_trae_agent_structure.md) |
 | Resume-Matcher | Strategy, Template Method, Factory, Observer | Command, Facade, Builder, Adapter | AI-powered document analysis, privacy-first local processing | [resume_matcher_analysis.md](./cases_analysis/resume_matcher_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/resume_matcher_structure.md) |
 | BerriAI LiteLLM | Adapter, Strategy, Factory, Proxy | Observer, Template Method, Decorator, Command | Enterprise LLM proxy, multi-provider abstraction, cost optimization | [litellm_analysis.md](./cases_analysis/litellm_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/litellm_structure.md) |
+| OpenManus FoundationAgents | Agent, Strategy, Facade, Factory | Command, Observer, Template Method, Adapter | Multi-agent AI framework, configurable agent orchestration, plugin architecture | [openmanus_analysis.md](./cases_analysis/openmanus_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/openmanus_structure.md) |
 | *Future Analysis* | - | - | - | - | - |
 
 ## Claude Code Templates
