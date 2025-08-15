@@ -4,6 +4,7 @@
       "WebFetch(domain:api.github.com)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "defaultMode": "acceptEdits"
   }
 }

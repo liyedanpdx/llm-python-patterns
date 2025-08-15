@@ -19,6 +19,7 @@
 * [**STRUCTURAL PATTERNS**](index/structural/README.md)
   * [Adapter Pattern](index/structural/adapter_cases.md)
   * [Decorator Pattern](index/structural/decorator_cases.md)
+  * [Proxy Pattern](index/structural/proxy_cases.md)
 
 ---
 

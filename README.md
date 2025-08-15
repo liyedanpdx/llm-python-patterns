@@ -39,7 +39,7 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware, transparent functionality addition |
 | | Facade | - | - | Unified interfaces, CLI simplification, complex system abstraction, developer-friendly APIs |
 | | Flyweight | - | - | Memory optimization, shared configurations, efficient resource usage |
-| | Proxy | - | - | Access control, rate limiting, caching, security, remote service abstraction |
+| | Proxy | [proxy_cases.md](./index/structural/proxy_cases.md) | [proxy_pattern.ipynb](./index/structural/proxy_pattern.ipynb) | Enterprise LLM gateways, access control, rate limiting, intelligent caching, security, cost optimization |
 | **Fundamental** | Delegation | - | - | Responsibility delegation, task forwarding, capability distribution, modular system design |
 | **Other** | Blackboard | - | - | Multi-agent knowledge sharing, collaborative reasoning, shared problem-solving workspace |
 | | Graph Search | - | - | AI pathfinding, decision trees, state space exploration, workflow optimization |
