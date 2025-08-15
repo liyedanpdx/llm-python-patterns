@@ -160,3 +160,9 @@ This case study reveals several novel applications of classic design patterns in
 OpenManus demonstrates sophisticated application of design patterns in AI agent architecture. The combination of Agent, Strategy, and Facade patterns creates a flexible, extensible system that balances simplicity with power. This architecture serves as an excellent example of how classic design patterns can be applied to modern AI agent development, providing both developer-friendly interfaces and enterprise-grade scalability.
 
 The project's emphasis on configuration-driven behavior, multi-agent coordination, and provider independence makes it a valuable case study for understanding production-ready AI agent architectures. The innovative applications of classic patterns in AI contexts provide valuable insights for developers building similar multi-agent systems.
+
+---
+
+## 📁 Project Structure Analysis
+
+**[📋 OpenManus Detailed Project Structure](./tree_structures/openmanus_structure.md)** - Comprehensive analysis of OpenManus's architecture, directory organization, and pattern implementation mapping across the entire codebase.

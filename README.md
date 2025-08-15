@@ -24,19 +24,19 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 | | Iterator | - | - | Data streaming, batch processing, sequential AI model execution |
 | | Mediator | - | - | Multi-agent communication, centralized coordination, system integration |
 | | Memento | - | - | Conversation state management, checkpoint/restore, workflow rollback |
-| | Observer | [observer_cases.md](./index/behavioral/observer_cases.md) | [observer_pattern.ipynb](./index/behavioral/observer_pattern.ipynb) | Real-time monitoring, cost tracking, performance analytics, system transparency, event-driven coordination |
-| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Multi-provider selection, cost optimization, routing algorithms, dynamic model switching, plugin architectures |
+| | Observer | [observer_cases.md](./index/behavioral/observer_cases.md) | [observer_pattern.ipynb](./index/behavioral/observer_pattern.ipynb) | Real-time monitoring, cost tracking, performance analytics, system transparency, event-driven coordination, MCP server monitoring |
+| | Strategy | [strategy_cases.md](./index/behavioral/strategy_cases.md) | [strategy_pattern.ipynb](./index/behavioral/strategy_pattern.ipynb) | Multi-provider selection, cost optimization, routing algorithms, dynamic model switching, plugin architectures, context management strategies |
 | | Template Method | [template_method_cases.md](./index/behavioral/template_method_cases.md) | - | Standardized workflows, document processing pipelines, agent behavior templates, consistent AI processing steps |
 | | Visitor | - | - | AST processing, code analysis, hierarchical data traversal |
 | **Creational** | Abstract Factory | [abstract_factory_cases.md](./index/creational/abstract_factory_cases.md) | [factory_cases.ipynb](./index/creational/factory_cases.ipynb) | Multi-provider AI families, agent ecosystems, tool families, environment-specific components |
-| | Builder | [builder.md](./index/creational/builder.md) | - | Complex prompt construction, configurable pipelines, step-by-step AI workflows, flexible system configuration |
+| | Builder | [builder.md](./index/creational/builder.md) | - | Complex prompt construction, configurable pipelines, step-by-step AI workflows, flexible system configuration, MCP server construction |
 | | Factory | [factory_cases.md](./index/creational/factory_cases.md) | - | Dynamic provider selection, agent creation, tool instantiation, runtime object creation |
 | | Prototype | - | - | Agent template cloning, configuration duplication, rapid instance creation |
 | | Singleton | - | - | Global configuration management, shared resources, cache coordination |
-| **Structural** | Adapter | [adapter_cases.md](./index/structural/adapter_cases.md) | - | Multi-provider integration, legacy system connectivity, data format standardization, protocol bridging |
+| **Structural** | Adapter | [adapter_cases.md](./index/structural/adapter_cases.md) | - | Multi-provider integration, legacy system connectivity, data format standardization, protocol bridging, multi-transport abstraction |
 | | Bridge | - | - | Platform abstraction, UI/logic separation, multi-environment deployment |
 | | Composite | - | - | Hierarchical agent systems, nested workflows, tree-structured AI processing |
-| | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware, transparent functionality addition |
+| | Decorator | [decorator_cases.md](./index/structural/decorator_cases.md) | [decorator_pattern.ipynb](./index/structural/decorator_pattern.ipynb) | Response caching, LLM enhancement layers, middleware, transparent functionality addition, AI-aware tool registration |
 | | Facade | - | - | Unified interfaces, CLI simplification, complex system abstraction, developer-friendly APIs |
 | | Flyweight | - | - | Memory optimization, shared configurations, efficient resource usage |
 | | Proxy | [proxy_cases.md](./index/structural/proxy_cases.md) | [proxy_pattern.ipynb](./index/structural/proxy_pattern.ipynb) | Enterprise LLM gateways, access control, rate limiting, intelligent caching, security, cost optimization |
@@ -91,6 +91,7 @@ Real-world production AI systems from leading companies, analyzing design patter
 | ByteDance Trae-Agent | Strategy, Command, Factory, Template Method | Observer, Facade, Registry, Configuration | Multi-LLM agent system, production-ready architecture | [bytedance_trae_agent_analysis.md](./cases_analysis/bytedance_trae_agent_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/bytedance_trae_agent_structure.md) |
 | Resume-Matcher | Strategy, Template Method, Factory, Observer | Command, Facade, Builder, Adapter | AI-powered document analysis, privacy-first local processing | [resume_matcher_analysis.md](./cases_analysis/resume_matcher_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/resume_matcher_structure.md) |
 | BerriAI LiteLLM | Adapter, Strategy, Factory, Proxy | Observer, Template Method, Decorator, Command | Enterprise LLM proxy, multi-provider abstraction, cost optimization | [litellm_analysis.md](./cases_analysis/litellm_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/litellm_structure.md) |
+| Prefect FastMCP | Decorator, Adapter, Proxy, Builder | Strategy, Observer, Template Method | Model Context Protocol framework, AI tool integration, multi-transport architecture | [fastmcp_analysis.md](./cases_analysis/fastmcp_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/fastmcp_structure.md) |
 | OpenManus FoundationAgents | Agent, Strategy, Facade, Factory | Command, Observer, Template Method, Adapter | Multi-agent AI framework, configurable agent orchestration, plugin architecture | [openmanus_analysis.md](./cases_analysis/openmanus_analysis.md) | [tree_structure.md](./cases_analysis/tree_structures/openmanus_structure.md) |
 | *Future Analysis* | - | - | - | - | - |
 

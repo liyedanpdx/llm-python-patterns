@@ -488,3 +488,9 @@ Resume-Matcher demonstrates excellent application of design patterns in a real-w
 **Key Takeaway**: Design patterns enable building sophisticated AI applications that are maintainable, extensible, and user-friendly while addressing real-world concerns like privacy and performance.
 
 The project serves as an excellent example of how to combine multiple design patterns to create a cohesive, professional AI application that solves genuine user problems in the job search and recruitment space.
+
+---
+
+## 📁 Project Structure Analysis
+
+**[📋 Resume-Matcher Detailed Project Structure](./tree_structures/resume_matcher_structure.md)** - Comprehensive analysis of Resume-Matcher's architecture, directory organization, and pattern implementation mapping across the entire codebase.

@@ -26,11 +26,13 @@
 ## ENTERPRISE CASE STUDIES
 * [**REAL-WORLD ARCHITECTURE ANALYSIS**](cases_analysis/README.md)
   * [ByteDance Trae-Agent Analysis](cases_analysis/bytedance_trae_agent_analysis.md)
+  * [FastMCP Framework Analysis](cases_analysis/fastmcp_analysis.md)
   * [LiteLLM Enterprise Architecture](cases_analysis/litellm_analysis.md)
   * [OpenManus FoundationAgents Analysis](cases_analysis/openmanus_analysis.md)
   * [Resume-Matcher System Design](cases_analysis/resume_matcher_analysis.md)
   * [**PROJECT STRUCTURES**](cases_analysis/tree_structures/README.md)
     * [ByteDance Trae-Agent Structure](cases_analysis/tree_structures/bytedance_trae_agent_structure.md)
+    * [FastMCP Project Structure](cases_analysis/tree_structures/fastmcp_structure.md)
     * [LiteLLM Project Structure](cases_analysis/tree_structures/litellm_structure.md)
     * [OpenManus Structure](cases_analysis/tree_structures/openmanus_structure.md)
     * [Resume-Matcher Structure](cases_analysis/tree_structures/resume_matcher_structure.md)
