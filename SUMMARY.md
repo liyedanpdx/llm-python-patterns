@@ -48,5 +48,6 @@
 
 ## CLAUDE CODE TEMPLATES
 * [**READY-TO-USE TEMPLATES**](claudecode_templates/README.md)
+  * [🎯 LLM Pattern Decision Guide](claudecode_templates/llm_pattern_decision_guide.md)
   * [AI Agent System Template](claudecode_templates/ai_agent_system_template.md)
   * [Multi-LLM Provider Template](claudecode_templates/multi_llm_provider_template.md)

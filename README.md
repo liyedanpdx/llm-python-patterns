@@ -97,13 +97,20 @@ Real-world production AI systems from leading companies, analyzing design patter
 
 ## Claude Code Templates
 
-Ready-to-use project templates for building AI applications with design patterns. Perfect for quickly starting new projects with proven architectural foundations.
+Ready-to-use templates and decision guides for building AI applications with design patterns. Perfect for Claude Code integration and rapid development.
 
+### 🚀 **Essential Decision Guide**
+| Template Name | Design Patterns Used | Use Case | Template Link |
+|---------------|---------------------|----------|---------------|
+| **🎯 LLM Pattern Decision Guide** | **All Patterns** | **Instant pattern selection, ROI insights, production templates** | **[llm_pattern_decision_guide.md](./claudecode_templates/llm_pattern_decision_guide.md)** |
+
+### 📦 **Project Templates**
 | Template Name | Design Patterns Used | Use Case | Template Link |
 |---------------|---------------------|----------|---------------|
 | AI Agent System | Template Method, Factory, Chain of Responsibility, Strategy, Command | Multi-agent workflows, intelligent task routing, LangChain-style systems | [ai_agent_system_template.md](./claudecode_templates/ai_agent_system_template.md) |
 | Multi-LLM Provider | Abstract Factory, Strategy, Facade, Observer, Command | Cost-optimized LLM integration, provider failover, vendor independence | [multi_llm_provider_template.md](./claudecode_templates/multi_llm_provider_template.md) |
-| *Future Template* | - | - | - |
+
+> **💡 Start Here**: Use the Decision Guide to quickly identify the right patterns for your needs, then implement with our production-tested templates.
 
 ## Getting Started with Real LLM Testing
 
