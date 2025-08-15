@@ -15,16 +15,6 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
 
 ![alt text](./assets/images/document_update.png)
 
-## 📋 Documentation Standards
-
-**IMPORTANT**: When creating new pattern documentation or revising existing patterns, you MUST read and follow the [index_document_format.md](./index_document_format.md) guidelines. This ensures consistency across all pattern implementations and maintains the educational quality standards of the project.
-
-The format guide specifies:
-- Exact structure for `.md` documentation files
-- Strict 10-cell limit for `.ipynb` interactive notebooks
-- Required sections and formatting rules
-- Quality standards and validation checklists
-
 ## Design Patterns Overview
 
 | Pattern Category | Pattern Name | Documentation | Project Link | LLM Application Focus |
