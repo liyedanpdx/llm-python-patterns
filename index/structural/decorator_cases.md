@@ -391,6 +391,6 @@ The Decorator pattern in LLM applications provides:
 
 ## 🔗 Interactive Implementation
 
-**[📓 Decorator Pattern Notebook](./decorator_pattern.ipynb)** - LLM response caching, performance monitoring, and cost tracking with real OpenAI API integration.
+**[📓 Decorator Pattern Notebook](./decorator_pattern.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liyedanpdx/llm-python-patterns/blob/main/index/structural/decorator_pattern.ipynb) - LLM response caching, performance monitoring, and cost tracking with real OpenAI API integration.
 
 This pattern is essential for production LLM systems where reliability, performance, and cost control are critical requirements.

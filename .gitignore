@@ -23,3 +23,7 @@ wheels/
 CLAUDE.md
 schemas/
 SUMMARY_copy.md
+index_document_format.md
+generate_colab_links.py
+update_colab_integration.py
+colab_links.md

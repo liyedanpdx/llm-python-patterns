@@ -268,6 +268,6 @@ The Observer Pattern is fundamental to building production-ready LLM application
 
 ## 🔗 Interactive Implementation
 
-**[📓 Observer Pattern Notebook](./observer_pattern.ipynb)** - Live implementation with real-time LLM monitoring, cost tracking, and performance analytics.
+**[📓 Observer Pattern Notebook](./observer_pattern.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liyedanpdx/llm-python-patterns/blob/main/index/behavioral/observer_pattern.ipynb) - Live implementation with real-time LLM monitoring, cost tracking, and performance analytics.
 
 In LLM applications where costs, performance, and reliability are critical, the Observer Pattern provides the foundation for building observable, maintainable AI systems.

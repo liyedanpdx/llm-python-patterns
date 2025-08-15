@@ -45,7 +45,7 @@ Complete interactive demonstration of building intelligent AI agent workflows us
 
 **Ready to build intelligent agent systems?** 
 
-### 📓 [**Open Interactive Notebook**](https://github.com/liyedanpdx/llm-python-patterns/blob/main/workshops/ai_agent_chain_example.ipynb)
+### 📓 [**Open Interactive Notebook**](https://github.com/liyedanpdx/llm-python-patterns/blob/main/workshops/ai_agent_chain_example.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liyedanpdx/llm-python-patterns/blob/main/workshops/ai_agent_chain_example.ipynb)
 
 **🎯 Workshop Highlights:**
 - Live agent routing demonstrations

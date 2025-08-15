@@ -665,6 +665,6 @@ The Factory pattern in LLM applications provides:
 
 ## 🔗 Interactive Implementation
 
-**[📓 Factory Pattern Notebook](./factory_cases.ipynb)** - Multi-provider AI client system with intelligent selection, failover, and cost optimization.
+**[📓 Factory Pattern Notebook](./factory_cases.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liyedanpdx/llm-python-patterns/blob/main/index/creational/factory_cases.ipynb) - Multi-provider AI client system with intelligent selection, failover, and cost optimization.
 
 This pattern is fundamental for production LLM systems where you need to create different types of objects dynamically based on user requirements, system conditions, or configuration settings while maintaining clean, maintainable code.

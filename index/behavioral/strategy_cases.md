@@ -294,6 +294,6 @@ The Strategy pattern in LLM applications provides:
 
 ## 🔗 Interactive Implementation
 
-**[📓 Strategy Pattern Notebook](./strategy_pattern.ipynb)** - Dynamic provider selection, cost optimization, and intelligent routing strategies in action.
+**[📓 Strategy Pattern Notebook](./strategy_pattern.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liyedanpdx/llm-python-patterns/blob/main/index/behavioral/strategy_pattern.ipynb) - Dynamic provider selection, cost optimization, and intelligent routing strategies in action.
 
 This pattern is crucial for production LLM systems where different scenarios require different approaches, and the ability to switch strategies dynamically is essential for optimal performance and user satisfaction.

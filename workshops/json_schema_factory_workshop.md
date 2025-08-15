@@ -51,7 +51,7 @@ Interactive workshop demonstrating Factory Pattern for structured LLM output con
 
 **Ready to master structured LLM outputs?**
 
-### 📓 [**Open Interactive Notebook**](https://github.com/liyedanpdx/llm-python-patterns/blob/main/workshops/json_schema_factory_pydantic.ipynb)
+### 📓 [**Open Interactive Notebook**](https://github.com/liyedanpdx/llm-python-patterns/blob/main/workshops/json_schema_factory_pydantic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liyedanpdx/llm-python-patterns/blob/main/workshops/json_schema_factory_pydantic.ipynb)
 
 **🎯 Workshop Highlights:**
 - Live schema validation demonstrations
