@@ -140,15 +140,14 @@ Personal knowledge repository for insights, reflections, and detailed observatio
 
 ### 📚 **Organized Knowledge Collection**
 - **[Pattern-Based Notes](./learning_notes/)** - Behavioral, Creational, and Structural pattern insights
-- **[Enterprise Analysis](./learning_notes/enterprise/)** - Real-world case study reflections  
-- **[Workshop Reflections](./learning_notes/workshops/)** - Hands-on implementation experiences
 - **[General Insights](./learning_notes/general/)** - Cross-pattern connections and observations
+- **[News & Discoveries](./learning_notes/news/)** - Industry trends and technical breakthroughs
 
 ### 🎯 **Quick Access**
 - **[Browse All Notes](./learning_notes/README.md)** - Complete navigation and introduction
 - **[Summary Index](./learning_notes/summary.md)** - Progress tracking and comprehensive overview
 
-*A personal space for capturing learning insights, pattern connections, and detailed analysis as you explore the world of design patterns in AI applications.*
+*A streamlined personal space for capturing learning insights, pattern connections, and staying updated with industry developments in AI applications.*
 
 ## License
 
