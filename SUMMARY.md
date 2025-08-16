@@ -62,6 +62,5 @@
     * [Creational Patterns](learning_notes/creational/)
     * [Structural Patterns](learning_notes/structural/)
   * [**CONTEXT-BASED NOTES**](learning_notes/)
-    * [Enterprise Case Studies](learning_notes/enterprise/)
-    * [Workshop Experiences](learning_notes/workshops/)
     * [General Insights](learning_notes/general/)
+    * [News & Discoveries](learning_notes/news/)
