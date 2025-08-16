@@ -46,14 +46,6 @@
 
 ---
 
-## CLAUDE CODE TEMPLATES
-* [**READY-TO-USE TEMPLATES**](claudecode_templates/README.md)
-  * [🎯 LLM Pattern Decision Guide](claudecode_templates/llm_pattern_decision_guide.md)
-  * [AI Agent System Template](claudecode_templates/ai_agent_system_template.md)
-  * [Multi-LLM Provider Template](claudecode_templates/multi_llm_provider_template.md)
-
----
-
 ## 📝 LEARNING NOTES
 * [**PERSONAL KNOWLEDGE REPOSITORY**](learning_notes/README.md)
   * [Summary Index](learning_notes/summary.md)
@@ -64,3 +56,11 @@
   * [**CONTEXT-BASED NOTES**](learning_notes/)
     * [General Insights](learning_notes/general/)
     * [News & Discoveries](learning_notes/news/)
+
+---
+
+## CLAUDE CODE TEMPLATES
+* [**READY-TO-USE TEMPLATES**](claudecode_templates/README.md)
+  * [🎯 LLM Pattern Decision Guide](claudecode_templates/llm_pattern_decision_guide.md)
+  * [AI Agent System Template](claudecode_templates/ai_agent_system_template.md)
+  * [Multi-LLM Provider Template](claudecode_templates/multi_llm_provider_template.md)
