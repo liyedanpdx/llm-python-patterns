@@ -50,7 +50,7 @@
 * [**PERSONAL KNOWLEDGE REPOSITORY**](learning_notes/README.md)
   * [Summary Index](learning_notes/summary.md)
   * **PATTERN-BASED NOTES**
-    * [Basic Fundamentals](learning_notes/basic/)
+    * [Basic Fundamentals](learning_notes/basic/README.md)
     * [Behavioral Patterns](learning_notes/behavioral/)
     * [Creational Patterns](learning_notes/creational/)
     * [Structural Patterns](learning_notes/structural/)

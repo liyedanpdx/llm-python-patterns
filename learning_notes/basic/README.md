@@ -20,6 +20,10 @@ This directory contains foundational notes and insights related to design patter
 - Testing fundamentals and strategies
 - Documentation and naming conventions
 
+## Available Notes
+
+- **[SOLID Principles](./SOLID.md)** - Core design principles for maintainable code (SRP, OCP, LSP, ISP, DIP)
+
 ## Guidelines
 
 - Focus on foundational concepts that support pattern understanding
