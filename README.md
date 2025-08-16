@@ -134,6 +134,22 @@ cp example.env .env
 # The .env file is automatically ignored by git for security
 ```
 
+## Learning Notes 📝
+
+Personal knowledge repository for insights, reflections, and detailed observations gathered while exploring Python design patterns in LLM applications.
+
+### 📚 **Organized Knowledge Collection**
+- **[Pattern-Based Notes](./learning_notes/)** - Behavioral, Creational, and Structural pattern insights
+- **[Enterprise Analysis](./learning_notes/enterprise/)** - Real-world case study reflections  
+- **[Workshop Reflections](./learning_notes/workshops/)** - Hands-on implementation experiences
+- **[General Insights](./learning_notes/general/)** - Cross-pattern connections and observations
+
+### 🎯 **Quick Access**
+- **[Browse All Notes](./learning_notes/README.md)** - Complete navigation and introduction
+- **[Summary Index](./learning_notes/summary.md)** - Progress tracking and comprehensive overview
+
+*A personal space for capturing learning insights, pattern connections, and detailed analysis as you explore the world of design patterns in AI applications.*
+
 ## License
 
 MIT License - see [LICENSE](./LICENSE) for details.

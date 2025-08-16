@@ -51,3 +51,17 @@
   * [🎯 LLM Pattern Decision Guide](claudecode_templates/llm_pattern_decision_guide.md)
   * [AI Agent System Template](claudecode_templates/ai_agent_system_template.md)
   * [Multi-LLM Provider Template](claudecode_templates/multi_llm_provider_template.md)
+
+---
+
+## 📝 LEARNING NOTES
+* [**PERSONAL KNOWLEDGE REPOSITORY**](learning_notes/README.md)
+  * [Summary Index](learning_notes/summary.md)
+  * [**PATTERN-BASED NOTES**](learning_notes/)
+    * [Behavioral Patterns](learning_notes/behavioral/)
+    * [Creational Patterns](learning_notes/creational/)
+    * [Structural Patterns](learning_notes/structural/)
+  * [**CONTEXT-BASED NOTES**](learning_notes/)
+    * [Enterprise Case Studies](learning_notes/enterprise/)
+    * [Workshop Experiences](learning_notes/workshops/)
+    * [General Insights](learning_notes/general/)
