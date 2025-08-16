@@ -14,6 +14,7 @@ This section serves as a comprehensive collection of:
 ## 📂 Organization Structure
 
 ### **Pattern-Based Categories**
+- **[Basic](./basic/)** - Foundational concepts, programming principles, and fundamental design pattern theory
 - **[Behavioral](./behavioral/)** - Notes on Chain of Responsibility, Observer, Strategy, Template Method, and other behavioral patterns
 - **[Creational](./creational/)** - Insights on Factory, Builder, Abstract Factory, and creational pattern implementations
 - **[Structural](./structural/)** - Reflections on Adapter, Decorator, Proxy, and structural pattern applications
@@ -29,10 +30,11 @@ This section serves as a comprehensive collection of:
 
 ## 📊 How to Use This Section
 
-1. **Browse by Pattern Type** - Explore notes organized by behavioral, creational, or structural patterns
-2. **Review by Context** - Access general observations or discover interesting news and trends
-3. **Use Summary Index** - Get a bird's-eye view of all documented learning insights
-4. **Cross-Reference** - Connect insights across different patterns and contexts
+1. **Start with Basics** - Begin with foundational concepts before diving into specific patterns
+2. **Browse by Pattern Type** - Explore notes organized by basic, behavioral, creational, or structural patterns
+3. **Review by Context** - Access general observations or discover interesting news and trends
+4. **Use Summary Index** - Get a bird's-eye view of all documented learning insights
+5. **Cross-Reference** - Connect insights across different patterns and contexts
 
 ---
 

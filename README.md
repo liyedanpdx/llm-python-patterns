@@ -139,7 +139,7 @@ cp example.env .env
 Personal knowledge repository for insights, reflections, and detailed observations gathered while exploring Python design patterns in LLM applications.
 
 ### 📚 **Organized Knowledge Collection**
-- **[Pattern-Based Notes](./learning_notes/)** - Behavioral, Creational, and Structural pattern insights
+- **[Pattern-Based Notes](./learning_notes/)** - Basic fundamentals, Behavioral, Creational, and Structural pattern insights
 - **[General Insights](./learning_notes/general/)** - Cross-pattern connections and observations
 - **[News & Discoveries](./learning_notes/news/)** - Industry trends and technical breakthroughs
 

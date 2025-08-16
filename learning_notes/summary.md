@@ -6,6 +6,7 @@ This document provides a comprehensive overview and index of all personal learni
 
 | Category | Description | Location |
 |----------|-------------|----------|
+| **[Basic](./basic/)** | Foundational concepts and programming principles | `/learning_notes/basic/` |
 | **[Behavioral](./behavioral/)** | Notes on behavioral design patterns | `/learning_notes/behavioral/` |
 | **[Creational](./creational/)** | Notes on creational design patterns | `/learning_notes/creational/` |  
 | **[Structural](./structural/)** | Notes on structural design patterns | `/learning_notes/structural/` |
@@ -15,6 +16,21 @@ This document provides a comprehensive overview and index of all personal learni
 ---
 
 ## 📊 Learning Notes Inventory
+
+### Basic Fundamentals
+*Personal insights on foundational concepts and programming principles*
+
+**Available Basic Topics:**
+- [ ] Design pattern fundamentals and core concepts
+- [ ] Object-oriented programming principles (SOLID, DRY, KISS)
+- [ ] Software architecture basics and best practices
+- [ ] Python language features and idioms
+- [ ] Programming paradigms and methodologies
+- [ ] Code organization and project structure
+- [ ] Testing fundamentals and strategies
+- [ ] Documentation and naming conventions
+
+*Check off topics as you add notes for each one*
 
 ### Behavioral Patterns
 *Personal insights on behavioral design patterns in LLM applications*
@@ -89,6 +105,7 @@ This document provides a comprehensive overview and index of all personal learni
 ## 📈 Learning Progress Tracking
 
 ### By Pattern Type
+- **Basic Fundamentals**: 0/8 topics documented
 - **Behavioral Patterns**: 0/9 patterns documented
 - **Creational Patterns**: 0/5 patterns documented  
 - **Structural Patterns**: 0/7 patterns documented
@@ -98,7 +115,7 @@ This document provides a comprehensive overview and index of all personal learni
 - **News & Discoveries**: 0/6 topics documented
 
 ### Overall Progress
-- **Total Categories**: 5 established
+- **Total Categories**: 6 established
 - **Total Note Files**: 0 created *(as you add files, update this count)*
 - **Last Updated**: *[Update date when adding new notes]*
 
