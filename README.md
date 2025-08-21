@@ -74,12 +74,30 @@ We also aspire to enable Claude Code to systematically generate high-quality, pa
    - Catches data errors before they enter your application
    - Alternative to OpenAI Function Calling with more control
 
+### 3. 🔧 Python Context Manager Workshop: Enterprise-Grade Resource Management - [context_workshop/](./workshops/context_workshop/)
+   
+   Comprehensive 9-module workshop series demonstrating Context Manager mastery for LLM applications.
+   
+   **Workshop Modules:**
+   - **Basic Concepts** - Core `@contextmanager` usage and principles
+   - **LLM Session Manager** - Production-grade session lifecycle management
+   - **Async Manager** - `@asynccontextmanager` for concurrent processing
+   - **Smart Session** - `contextvars` global state management
+   - **Nested Managers** - Multi-layer resource orchestration  
+   - **MCP Implementation** - Model Context Protocol detailed analysis
+   - **AsyncExitStack vs @asynccontextmanager** - Advanced comparison
+   - **Local MCP Integration** - Real-world multi-service scenarios
+   - **Design Patterns Analysis** - Multi-pattern synergy and architectural insights
+   
+   **Key Learning:** Context Manager embodies multiple design patterns working in harmony - Template Method, Builder, Composite, Facade, Strategy, Observer, and Factory patterns collaborate to create enterprise-grade resource management solutions.
+
 ## Workshop Project Pattern Mapping
 
 | Workshop Project | Primary Patterns | Secondary Patterns | Focus Area | Link |
 |------------------|------------------|-------------------|------------|------|
 | AI Agent Chain | Chain of Responsibility, Strategy, Abstract Factory | Template Method, Adapter, Facade | Multi-agent workflows, request routing | [ai_agent_chain_example.ipynb](./workshops/ai_agent_chain_example.ipynb) |
 | JSON Schema Factory + Pydantic | Factory, Template Method | - | Structured LLM output control, provider-independent validation | [json_schema_factory_pydantic.ipynb](./workshops/json_schema_factory_pydantic.ipynb) |
+| Python Context Manager Workshop | Template Method, Builder, Composite | Facade, Strategy, Observer, Factory | Multi-pattern synergy, enterprise resource management, MCP integration | [context_workshop/](./workshops/context_workshop/) |
 | *Future Project* | - | - | - | - |
 
 ## Enterprise Cases Analysis
