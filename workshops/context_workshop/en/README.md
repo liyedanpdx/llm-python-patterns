@@ -4,6 +4,16 @@
 
 This workshop teaches you to master Python Context Manager core concepts and practical techniques through 9 progressive modules, specifically designed for LLM application development.
 
+1. [Basic Concepts](./context_workshop/en/01_basic_concepts.py)
+2. [LLM Session Manager](./context_workshop/en/02_llm_session_manager.py)
+3. [Async Manager](./context_workshop/en/03_async_manager.py)
+4. [Smart Session](./context_workshop/en/04_smart_session.py)
+5. [Nested Managers](./context_workshop/en/05_nested_managers.py)
+6. [MCP Implementation](./context_workshop/en/06_mcp_implementation.md)
+7. [AsyncExitStack vs @asynccontextmanager](./context_workshop/en/07_asyncexitstack_vs_asynccontextmanager.py)
+8. [Local MCP Integration](./context_workshop/en/08_local_mcp_integration.py)
+9. [Design Patterns Analysis](./context_workshop/en/09_design_patterns_analysis.md)
+
 ## 🎯 Learning Path
 
 ### 01. Basic Concepts (`01_basic_concepts.py`)
