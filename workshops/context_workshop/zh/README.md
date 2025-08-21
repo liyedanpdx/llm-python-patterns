@@ -4,15 +4,15 @@
 
 本 workshop 通过 9 个渐进式模块，掌握 Python Context Manager 的核心概念和实用技巧，适用于 LLM 应用开发。
 
-1. [基础概念](./context_workshop/zh/01_basic_concepts.py)
-2. [大语言模型会话管理器](./context_workshop/zh/02_llm_session_manager.py)
-3. [异步管理器](./context_workshop/zh/03_async_manager.py)
-4. [智能会话](./context_workshop/zh/04_smart_session.py)
-5. [嵌套管理器](./context_workshop/zh/05_nested_managers.py)
-6. [MCP 实现](./context_workshop/zh/06_mcp_implementation.md)
-7. [AsyncExitStack 与 @asynccontextmanager 对比分析](./context_workshop/zh/07_asyncexitstack_vs_asynccontextmanager.py)
-8. [本地 MCP 集成](./context_workshop/zh/08_local_mcp_integration.py)
-9. [设计模式分析](./context_workshop/zh/09_design_patterns_analysis.md)
+1. [基础概念](./01_basic_concepts.py)
+2. [大语言模型会话管理器](./02_llm_session_manager.py)
+3. [异步管理器](./03_async_manager.py)
+4. [智能会话](./04_smart_session.py)
+5. [嵌套管理器](./05_nested_managers.py)
+6. [MCP 实现](./06_mcp_implementation.md)
+7. [AsyncExitStack 与 @asynccontextmanager 对比分析](./07_asyncexitstack_vs_asynccontextmanager.py)
+8. [本地 MCP 集成](./08_local_mcp_integration.py)
+9. [设计模式分析](./09_design_patterns_analysis.md)
 
 ## 🎯 学习路径
 
