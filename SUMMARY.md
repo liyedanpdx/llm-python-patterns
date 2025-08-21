@@ -43,7 +43,8 @@
 * [**HANDS-ON IMPLEMENTATIONS**](workshops/README.md)
   * [AI Agent Chain Workshop](workshops/ai_agent_chain_workshop.md)
   * [JSON Schema Factory Workshop](workshops/json_schema_factory_workshop.md)
-
+  * [Context Management Workshop](workshops/context_workshop/en/README.md)
+  * [Context Management Workshop - zh](workshops/context_workshop/zh/README.md)
 ---
 
 ## 📝 LEARNING NOTES

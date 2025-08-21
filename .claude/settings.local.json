@@ -5,7 +5,9 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "Bash(rmdir:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(rm:*)"
     ],
     "deny": [],
     "ask": [],
